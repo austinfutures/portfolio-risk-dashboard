@@ -1,5 +1,8 @@
 # Enterprise Portfolio Risk Analytics Dashboard
 
+<img width="1407" height="986" alt="image" src="https://github.com/user-attachments/assets/a5988fe9-5252-48fe-b7a7-8389f1332c59" />
+
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
