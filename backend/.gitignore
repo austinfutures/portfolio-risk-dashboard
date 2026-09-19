@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & Local DB
+backend/venv/
+backend/portfolio.db
+.env
+
+# Node / Frontend builds
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# IDE / OS specific
+.vscode/
+.DS_Store
+Thumbs.db
