@@ -107,7 +107,7 @@ Ensure you have the following installed on your host system:
 
 ---
 
-## Local Development (Without Docker)
+## Local Development (Docker not required)
 
 If you prefer to run services individually without Docker:
 
